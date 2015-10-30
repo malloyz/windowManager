@@ -1,0 +1,27 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d", "extensions"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/app.js",
+        "src/gui/popup/Mask.js",
+        "src/gui/popup/WindowAction.js",
+        "src/gui/popup/WindowBase.js",
+        "src/gui/popup/WindowManager.js",
+        "src/gui/UIHelper.js",
+        "src/utils/ObjectArray.js",
+        "src/utils/Util.js",
+        "src/window/ConfirmPayWindow.js",
+        "src/window/PayWindow.js",
+        "src/common/Common.js"
+    ]
+}

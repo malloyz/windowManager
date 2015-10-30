@@ -1,0 +1,11 @@
+<Solution>
+  <PropertyGroup Name="window" Version="2.3.1.1" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="ConfirmPayWindow.csd" Type="Layer" />
+        <Project Name="PayWindow.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
